@@ -1,5 +1,5 @@
 
 <div align="center">
-  <img src="koi/koi.gif" width="312" alt="My GitHub activity koi" />
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
 </div>
 
